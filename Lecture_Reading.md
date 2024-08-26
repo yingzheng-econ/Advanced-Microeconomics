@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lectures and Readings
+title: 课程计划
 order: 3
 ---
 ***
