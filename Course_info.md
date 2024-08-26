@@ -6,22 +6,21 @@ order: 1
 ***
 
 ## 联系方式
-**授课教师** [郑㼆](https://yingzheng-econ.github.io)  
-**Email:** [yingzheng@ruc.edu.cn](mailto:yingzheng@ruc.edu.cn)
+**授课教师：** [郑㼆](https://yingzheng-econ.github.io)  
+**邮件：** [yingzheng@ruc.edu.cn](mailto:yingzheng@ruc.edu.cn)
 
 ***
 
 ## 课程信息
 **课程时间：** 星期二 14:00 - 16:30pm  
 **课程地点：** 待定  
-**学分/总学时:** 3/48 
-**Course Web:** https://yingzheng-econ.github.io/Advanced-Microeconomics//
+**学分/总学时：** 3/48  
+ **课程网页：** https://yingzheng-econ.github.io/Advanced-Microeconomics//
 
 ***
 
 ## 教学大纲
-此大纲按照 3 学分 16 周共 48 课时编写，每周授课一次。
-- 教学大纲([pdf](/Empirical-IO-Course/Syllabus-Microeconomics-2024-Fall-RUC.pdf))
+此教学大纲([pdf](/Empirical-IO-Course/Syllabus-Microeconomics-2024-Fall-RUC.pdf))按照 3 学分 16 周共 48 课时编写，每周授课一次。
 
 ***
 
