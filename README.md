@@ -1,4 +1,4 @@
-# Empirical IO Course. 
+# Advanced Microeconomics. 
 
 This website is built using Lanyon. Details of Lanyon are shown below.  
 
