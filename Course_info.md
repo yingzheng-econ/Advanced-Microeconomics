@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Information
+title: 课程信息
 order: 1
 ---
 ***
