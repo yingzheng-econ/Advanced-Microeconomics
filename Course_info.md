@@ -15,7 +15,6 @@ order: 1
 **课程时间：** 星期二 14:00 - 16:30pm  
 **课程地点：** 待定  
 **学分/总学时：** 3/48  
- **课程网页：** https://yingzheng-econ.github.io/Advanced-Microeconomics//
 
 ***
 
