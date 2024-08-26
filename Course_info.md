@@ -20,7 +20,7 @@ order: 1
 ***
 
 ## 教学大纲
-此教学大纲([pdf](/Empirical-IO-Course/Syllabus-Microeconomics-2024-Fall-RUC.pdf))按照3学分16周共48课时编写，每周授课一次。
+此教学大纲([pdf](/Advanced-Microeconomics/Syllabus-Microeconomics-2024-Fall-RUC.pdf))按照3学分16周共48课时编写，每周授课一次。
 
 ***
 
