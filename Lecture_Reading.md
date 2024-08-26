@@ -97,16 +97,16 @@ order: 3
     
  ***
  
- ## 一般均衡理论初步
+## 一般均衡理论初步
  
- - ### Lecture 12: General Equilibrium Analysis (Perfect Competitive Market) 
+- ### Lecture 12: General Equilibrium Analysis (Perfect Competitive Market) 
  
   * 瓦尔拉斯一般均衡的定义  
   * 2×2交换经济的一般均衡  
   * 鲁宾逊克鲁索经济  
   * 埃奇沃斯盒  
 
- - ### Lecture 13: Factor Market Equilibrium
+- ### Lecture 13: Factor Market Equilibrium
 
   * 要素市场概念  
   * 要素市场均衡与比较静态  
@@ -114,16 +114,16 @@ order: 3
     
  ***
  
- ## 市场失灵(Optional)
+## 市场失灵(Optional)
   
- - ### Lecture 14: Externality and Public Goods
+- ### Lecture 14: Externality and Public Goods
  
   * 公共物品  
   * 公地的悲剧与外部性  
 
   ***
  
-  - ### Week 16: 期末考试（随堂，闭卷）
+  - ### <span style="color: red">Week 16: 期末考试（随堂，闭卷）</span>
  
   
  
